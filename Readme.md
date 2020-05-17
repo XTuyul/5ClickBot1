@@ -1,4 +1,4 @@
-# 🔥 AUTO CLAIM POPULAR 5 CLICK BOT USING 1 TERMUX SCRIPT🔥
+# 🔥 AUTO CLAIM POPULAR 5 CLICK BOT USING 1 TERMUX SCRIPT
  
 **START All Bot Below at Telegram :**
 1. **Doge** 📲 [https://t.me/Dogecoin_click_bot ](https://t.me/Dogecoin_click_bot?start=tIh2)   
