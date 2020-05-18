@@ -9,34 +9,38 @@
 
 **TERMINAL/TERMUX :**
 
- `apt update --pkg upgrade`  
- `apt install python git`  
- `git clone https://github.com/XTuyul/5ClickBot1`  
- `cd 5ClickBot1`  
- `pkg install python`  
- `pkg install nano`  
- `pkg install pip` 
- `pip install telethon`  
- `pip install --upgrade pip`  
- `pip install requests`  
- `pip install bs4`  
- `pip install rsa`  
- `pip install pyaes`  
- `pip install async_generator`  
- `pip install colorama`  
- `pkg install requirements.txt`  
- `python bot.py`
+> apt update --pkg upgrade  
+apt install python git  
+git clone https://github.com/XTuyul/5ClickBot1    
+cd 5ClickBot1  
+pkg install python  
+pkg install nano  
+pkg install pip  
+pip install telethon  
+pip install --upgrade pip  
+pip install requests  
+pip install bs4  
+pip install rsa  
+pip install pyaes  
+pip install async_generator  
+pip install colorama  
+pkg install requirements.txt  
+nano start.sh  
 
 **Execute Code**  
- `python bot.py +[phone] [coin]`
+After edit and replace phone number in `start.sh` now you can execute your script in termux terminal with command :  
+> bash start.sh
+
+If you want play script with single Bot Coin Title you can just type this command :  
+> python bot.php +[phone] [coin] 
 
 **Note :**  
  `[phone]` = Internation Code Phone Number Already Registered on Telegram Above  
  `[coin]` = Coin Title Bot  
  
 _Ext_ :  
-Python bot.php +[Phone] Doge  
+python bot.php +[Phone] Doge  
 Python bot.php +[Phone] LTC  
-Python bot.php +[Phone] ZEC  
-Python bot.php +[Phone] BCH  
-Python bot.php +[Phone] BTC  
+python bot.php +[Phone] ZEC  
+python bot.php +[Phone] BCH  
+python bot.php +[Phone] BTC  
