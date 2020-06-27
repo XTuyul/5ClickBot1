@@ -32,7 +32,7 @@ After edit and replace phone number in `start.sh` now you can execute your scrip
 > bash start.sh
 
 If you want play script with single Bot Coin Title you can just type this command :  
-> python bot.php +[phone] [coin] 
+> python bot.py +[phone] [coin] 
 
 **Note :**  
  `[phone]` = Internation Code Phone Number Already Registered on Telegram Above  
