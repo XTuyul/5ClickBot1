@@ -39,8 +39,8 @@ If you want play script with single Bot Coin Title you can just type this comman
  `[coin]` = Coin Title Bot  
  
 _Ext_ :  
-python bot.php +[Phone] Doge  
-Python bot.php +[Phone] LTC  
-python bot.php +[Phone] ZEC  
-python bot.php +[Phone] BCH  
-python bot.php +[Phone] BTC  
+python bot.py +[Phone] Doge  
+Python bot.py +[Phone] LTC  
+python bot.py +[Phone] ZEC  
+python bot.py +[Phone] BCH  
+python bot.py +[Phone] BTC  
